@@ -57,9 +57,9 @@ footer {
 }
 
 img.profile-photo {
-  width: 80px;        /* Adjust size as needed */
-  height: 80px;       /* Keep width and height equal for perfect circle */
+  width: 200px;        /* Adjust size as needed */
+  height: 200px;       /* Keep width and height equal for perfect circle */
   border-radius: 50%;  /* Makes the image round */
   object-fit: cover;   /* Ensures the image covers the circle nicely */
-  border: 2px solid #ccc; /* Optional: adds a subtle border */
+  border: 3px solid #ccc; /* Optional: adds a subtle border */
 }
