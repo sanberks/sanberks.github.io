@@ -63,3 +63,7 @@ img.profile-photo {
   object-fit: cover;   /* Ensures the image covers the circle nicely */
   border: 3px solid #ccc; /* Optional: adds a subtle border */
 }
+.project-title {
+  color: #ffab40; /* bright orange – looks good on dark background */
+  font-weight: bold;
+}
