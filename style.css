@@ -1,15 +1,15 @@
-/* Dark Academic Theme */
+/* Light Academic Theme */
 body {
-  background-color: #121212;
-  color: #e0e0e0;
-  font-family: "Segoe UI", sans-serif;
+  background-color: #ffffff;
+  color: #000000;
+  font-family: 'Merriweather', serif;
   line-height: 1.6;
   margin: 0;
   padding: 0;
 }
 
 header {
-  background-color: #1e1e1e;
+  background-color: #f2f2f2;
   padding: 2rem;
   text-align: center;
 }
@@ -20,7 +20,7 @@ header h1 {
 }
 
 header nav a {
-  color: #90caf9;
+  color: #1a73e8;
   margin: 0 1rem;
   text-decoration: none;
 }
@@ -40,30 +40,31 @@ section {
 }
 
 h2 {
-  color: #bb86fc;
-  border-bottom: 1px solid #444;
+  color: #5e35b1; /* Deep purple for section titles */
+  border-bottom: 1px solid #ccc;
   padding-bottom: 0.3rem;
 }
 
 a {
-  color: #90caf9;
+  color: #1a73e8;
 }
 
 footer {
   text-align: center;
   padding: 1rem;
-  background-color: #1e1e1e;
-  color: #777;
+  background-color: #f2f2f2;
+  color: #555;
 }
 
 img.profile-photo {
-  width: 200px;        /* Adjust size as needed */
-  height: 200px;       /* Keep width and height equal for perfect circle */
-  border-radius: 50%;  /* Makes the image round */
-  object-fit: cover;   /* Ensures the image covers the circle nicely */
-  border: 3px solid #ccc; /* Optional: adds a subtle border */
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #999;
 }
+
 .project-title {
-  color: #ffab40; /* bright orange – looks good on dark background */
+  color: #e65100; /* Deep orange */
   font-weight: bold;
 }
