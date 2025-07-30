@@ -40,7 +40,7 @@ section {
 }
 
 h2 {
-  color: #5e35b1; /* Deep purple for section titles */
+  color: #ffffff; /* Deep purple for section titles */
   border-bottom: 1px solid #ccc;
   padding-bottom: 0.3rem;
 }
@@ -65,6 +65,6 @@ img.profile-photo {
 }
 
 .project-title {
-  color: #e65100; /* Deep orange */
+  color: #ffffff; /* Deep orange */
   font-weight: bold;
 }
